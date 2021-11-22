@@ -1,0 +1,51 @@
+p
+{
+background-color: blueviolet;
+font-size: larger;
+font-style: italic;
+text-align: center;
+}
+h1
+{
+text-align: center;
+}
+h2
+{
+text-align: center;
+}
+#heading1
+{
+font-size: 80px;
+font-style:italic;
+background-color: black;
+color:orange;
+text-align: center;
+}
+.container
+{
+background-color:darkmagenta;
+display:inline-block;
+width: 450px;
+margin: 30px;
+margin-left: 160px;
+padding:5px;
+border-radius: 5px;
+}
+.scontainer
+{
+background-color: rebeccapurple;
+display:inline-block;
+width:450px;
+margin:30px;
+padding:5px;
+border-radius: 5px;
+}
+.body
+{
+background-color:darkgreen;
+}
+.diceimg
+{
+width:200px;
+margin-left: 90px;
+}
